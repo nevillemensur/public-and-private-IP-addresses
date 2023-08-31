@@ -14,7 +14,9 @@ We currently have one virtual private cloud (VPC with a CIDR range of 10.0.0.0/1
 
 
 Thanks!
+
 Jess
+
 Cloud Admin
 
 <p>
@@ -32,9 +34,9 @@ Figure: The customer's architecture, which consists of a VPC, internet gateway, 
 
 <h2>Environments and Technologies Used</h2>
 
-- Microsoft Azure (Virtual Machines/Compute)
-- Remote Desktop
-- Internet Information Services (IIS)
+- AWS Management Console
+- Remote Desktop SSH
+
 
 <h2>Operating Systems Used </h2>
 
