@@ -17,6 +17,17 @@ Thanks!
 Jess
 Cloud Admin
 
+<p>
+<img src=https://i.imgur.com/NpI57NW.png/>
+</p>
+
+<p>
+Figure: The customer's architecture, which consists of a VPC, internet gateway, public subnet with instance A, and a public subnet with instance B.
+</p>
+<br />
+
+
+
 
 
 <h2>Environments and Technologies Used</h2>
