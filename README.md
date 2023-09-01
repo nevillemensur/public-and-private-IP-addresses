@@ -4,7 +4,14 @@
 </p>
 
 <h1>AWS - Objectives</h1>
-This tutorial outlines the differece between a private and public IP address. In this lab I will investigate the customer scenario then I will develop a solution to the customers issue in this lab.<br />
+
+-Summarize and investigate the customer scenario
+
+-Analyze the difference between a private and public IP address
+
+-Develop a solution to the customer's issue in this lab.
+
+<br />
 
 <h2>Ticket from the customer</h2>
 
