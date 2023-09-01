@@ -47,7 +47,7 @@ Figure: The customer's architecture, which consists of a VPC, internet gateway, 
 
 <h2>Operating Systems Used </h2>
 
-- Windows 10</b> (21H2)
+- Mac OS</b> 
 
 <h2>List of Prerequisites</h2>
 
@@ -128,12 +128,12 @@ Figure: Amazon EC2 instance B networking information.
 <br />
 
 <p>
-4. Run the command: ssh -i labsuser-7.pem ec2-user@10.0.10.102. We were not able to connect to instance A <img src=https://i.imgur.com/gjyhCl7.png/>
+4. Run the command: ssh -i labsuser-7.pem ec2-user@10.0.10.102. We were not able to connect to instance A. <img src=https://i.imgur.com/gjyhCl7.png/>
 </p>
 <br />
 
 <p>
-5.Run the command: ssh -i labsuser-7.pem ec2-user@35.91.189.114 <img src=https://i.imgur.com/zuK7VZ4.png/>
+5.Run the command: ssh -i labsuser-7.pem ec2-user@35.91.189.114. We were able to connect to instance B using the public IP address. <img src=https://i.imgur.com/zuK7VZ4.png/>
 </p>
 <br />
 
