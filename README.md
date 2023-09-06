@@ -86,7 +86,7 @@ Task 2: Use SSH to connect to instance A and instance B
 <br />
 
 <p>
-4. Copy and paste the names and IP addresses of both instances for future reference in a text editorSelect the check box next to instance A. At the bottom of the page, choose the Networking tab, and note the Public and Private IPv4 addresses. Once you copy and paste the name and IP addresses, deselect the instance, and then select instance B and do the same
+4. Copy and paste the names and IP addresses of both instances for future reference in a text editor. Select the check box next to instance A. At the bottom of the page, choose the Networking tab, and note the Public and Private IPv4 addresses. Once you copy and paste the name and IP addresses, deselect the instance, and then select instance B and do the same
 </p>
 
 <p>
